@@ -1,0 +1,19 @@
+alias: Cinema Mode Previous State
+description: ""
+triggers:
+  - trigger: state
+    entity_id:
+      - input_boolean.cinema_mode
+    from: "on"
+    to: "off"
+conditions:
+  - condition: state
+    entity_id: input_boolean.change_scene
+    state: "on"
+actions:
+  - action: scene.turn_on
+    metadata: {}
+    data: {}
+    target:
+      entity_id: scene.previous
+mode: single

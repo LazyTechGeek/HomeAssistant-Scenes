@@ -1,0 +1,8 @@
+input_boolean:
+  bedtime_mode:
+    name: Bedtime Mode
+    icon: mdi:bed
+
+  cinema_mode:
+    name: Cinema Mode
+    icon: mdi:theater

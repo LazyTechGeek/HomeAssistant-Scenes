@@ -1,0 +1,17 @@
+sequence:
+  - action: scene.create
+    metadata: {}
+    data:
+      scene_id: previous
+      snapshot_entities:
+        - light.sonoff_100062a5bc
+        - switch.sonoff_hall
+        - switch.sonoff_lounge
+        - switch.sonoff_kitchen
+        - light.sonoff_1000dbd502
+        - switch.sonoff_10006bce68
+        - cover.left_curtain_curtain
+        - cover.center_curtain_curtain
+        - cover.right_curtain_curtain
+alias: Previous Scene
+description: ""

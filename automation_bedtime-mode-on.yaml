@@ -1,0 +1,34 @@
+alias: Bedtime Mode On
+description: ""
+triggers:
+  - trigger: state
+    entity_id:
+      - input_boolean.bedtime_mode
+    from: "off"
+    to: "on"
+conditions: []
+actions:
+  - action: script.previous_scene
+    metadata: {}
+    data: {}
+  - action: input_boolean.turn_off
+    metadata: {}
+    data: {}
+    target:
+      entity_id: input_boolean.change_scene
+  - action: input_boolean.turn_off
+    metadata: {}
+    data: {}
+    target:
+      entity_id: input_boolean.cinema_mode
+  - action: scene.turn_on
+    metadata: {}
+    data: {}
+    target:
+      entity_id: scene.bedtime_mode
+  - action: input_boolean.turn_on
+    metadata: {}
+    data: {}
+    target:
+      entity_id: input_boolean.change_scene
+mode: single
