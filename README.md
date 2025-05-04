@@ -1,6 +1,6 @@
 # HomeAssistant-Scenes
 
-# Inputboolean samples
+# Input boolean samples
 
 change_scene:
 
