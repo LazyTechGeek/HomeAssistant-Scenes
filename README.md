@@ -2,7 +2,7 @@
 Home Assistant Scenes
 
 
-#Input_boolean samples:
+# Input_boolean samples:
 
 change_scene:
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/input-boolean_change-scene_split-version.yaml
@@ -12,7 +12,7 @@ bedtime_mode & cinema_mode
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/input-boolean_scenes-split-version.yaml
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/input-boolean_scenes-non-split-version.yaml
 
-#Automations
+# Automations
 Bedtime mode on
 mode: single](https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_bedtime-mode-on.yaml)
 
@@ -25,5 +25,5 @@ https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_cinema
 Cinema mode previous state
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_cinema-mode-previous-state.yaml
 
-#script
+# script
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/script_previous_scene.yaml
