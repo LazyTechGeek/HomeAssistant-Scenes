@@ -17,7 +17,7 @@ Bedtime mode on
 
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_bedtime-mode-on.yaml
 
-Bedtime mode previous state:
+Bedtime mode previous state
 
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_bedtime-mode-previous-state.yaml
 
