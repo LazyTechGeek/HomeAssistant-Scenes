@@ -1,6 +1,4 @@
 # HomeAssistant-Scenes
-Home Assistant Scenes
-
 
 # Input_boolean samples:
 
@@ -31,6 +29,6 @@ Cinema mode previous state
 
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_cinema-mode-previous-state.yaml
 
-# script
+# Script to create previous scene
 
 https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/script_previous_scene.yaml
