@@ -16,7 +16,7 @@ https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/input-boolean_sce
 # Automations
 Bedtime mode on
 
-mode: single](https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_bedtime-mode-on.yaml)
+(https://github.com/LazyTechGeek/HomeAssistant-Scenes/blob/main/automation_bedtime-mode-on.yaml)
 
 Bedtime mode previous state:
 
