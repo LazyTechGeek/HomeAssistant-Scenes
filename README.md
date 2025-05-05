@@ -3,6 +3,7 @@
 🎬 Master Home Assistant Scenes – Learn everything you need to know about Home Assistant scenes in this complete tutorial!
 
 Learn how to:
+
 • Create scenes using the UI and YAML (scene.create)
 
 • Activate them with scene.activate and automations
