@@ -4,9 +4,13 @@
 
 Learn how to:
 • Create scenes using the UI and YAML (scene.create)
+
 • Activate them with scene.activate and automations
+
 • Use scene.apply and restore previous states
+
 • Add scenes to dashboards
+
 • Compare methods and explore advanced tips – with a full live demo!
 
 📺 Watch the video: https://youtu.be/KRkyYK4eePc
