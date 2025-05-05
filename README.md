@@ -1,4 +1,4 @@
-# HomeAssistant-Scenes
+# Home Assistant-Scenes
 
 🎬 Master Home Assistant Scenes – Learn everything you need to know about Home Assistant scenes in this complete tutorial!
 
