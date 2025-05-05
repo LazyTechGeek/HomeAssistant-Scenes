@@ -1,9 +1,15 @@
 # HomeAssistant-Scenes
 
-🎬 Master Home Assistant Scenes – Automations, scene.create, scene.apply + More!
-Learn everything you need to know about Home Assistant Scenes in this complete tutorial! We’ll cover how to create scenes using both the UI and YAML (scene.create), activate them via automations and scene.activate, use scene.apply, compare methods, and show how to add scenes to dashboards or restore previous states. Includes a full live demo and tips for advanced use!
+🎬 Master Home Assistant Scenes – Learn everything you need to know about Home Assistant scenes in this complete tutorial!
 
-Link: https://youtu.be/KRkyYK4eePc
+Learn how to:
+• Create scenes using the UI and YAML (scene.create)
+• Activate them with scene.activate and automations
+• Use scene.apply and restore previous states
+• Add scenes to dashboards
+• Compare methods and explore advanced tips – with a full live demo!
+
+📺 Watch the video: https://youtu.be/KRkyYK4eePc
 
 # Input boolean samples
 
